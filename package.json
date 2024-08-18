@@ -1,0 +1,21 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "Esto es un ejemplo de un proyecto con Node.js",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Camila Marcos <camila.marcosgalban@davinci.edu.ar>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "url al proyecto github"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
