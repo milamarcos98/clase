@@ -35,3 +35,6 @@ export function resta(a,b){
 // export default function suma(a,b){
 //     return a + b;
 // }
+
+
+console.log("hola 2")
